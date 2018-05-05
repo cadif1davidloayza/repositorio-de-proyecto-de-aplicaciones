@@ -1,0 +1,36 @@
+google drive
+1) Rerquerimientos no funcionales
+-multiples idiomas
+-menù de otros productos de google
+-alta capacidad de almacenaje de datos
+-buena velocidad 
+-se encuentra incluida en todas la cuentas de gmail
+- cada cuenta tiene su propia nube unicamente accesible desde su respectiva cuenta 
+
+2) requerimientos funcionales del front web 
+-  permite ejecutar una funcion que sirve para compartir el documento mediante enlace para que cualquiera pueda verlo
+-consta de una funcion que permite alterar la configuracion de la cuenta de google drive
+- `tiene una funcion que le permite abrir el documento seleccionado y modificarlo con otras aplicaciones de google como pixir editor y pixir express
+-permite aplicar en el documento seleccionado un sistema de control de versiones
+
+3)requerimientos funcionales del front movil
+-tiene una funcion que permite enviar una copia del documento selecionado a la pantalla de inicio
+-ejecuta una funcion que permite hacer comentarios en el archivo
+- activa una funcion que permite que varios usuarios puedan modificar un mismo archivo
+-permite ejecutar una funcion que hace que un documentoo este disponible aun sin conexion
+
+si tuviera una plataforma de ventas de productos en linea los requerimientos serian
+	4) funcionales:
+		-que tuviera una funcion que se activase cuando alguien seleccione el producto le muestre el precio (visualente) y le anuncie el precio (auditivamente)
+		-que tuviese una funcion que le permita a los clientes cambiar de producto si seleccionaron el producto equivocado o cambiaron de opinion
+		-tendria una funcion que inponiese un tiempo limite para cambiar el producto, dependiendo del producto seleccionado, el tipo de producto, el estado de este y otros factores
+		-presentaria una funcion que permitiria a los usuarios interactuar entre si para intercambar informacion de productos, vendedores y compradores
+		-constaria de una funcion que les permitiria seleccionar su comprovante de venta como guia de despacho, recibo, factura, notas de entrega, segun sus necesidades.
+		-tendria una funcion para que los usuarios se registren segun sus motivos (compradores o vendedores) y su identidad (persona, empresa, compañia, etc)
+
+	5) no funcionales:
+		-debe ser simple de utilizar y organizar
+		-deberà tener un frontend web y un front movil
+		-tendrà que tener multiples idiomas 
+		-el idioma pre determinado tendra que ser ingles
+		-podrà soportar contenido multimedia publicitario (imagenes, videos, animacion, etc)
